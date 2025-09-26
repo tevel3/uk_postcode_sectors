@@ -1,21 +1,15 @@
-MIT License
+The data in this archive is derived from NSUL (published by the ONS)
+and Boundary-Line (published by Ordnance Survey), which are both
+licensed under the Open Government License version 3. You must abide
+by the terms of these licenses and include the following copyright
+notices:
 
-Copyright (c) 2025 tevel3
+Contains OS data © Crown copyright and database right 2020
+Contains Royal Mail data © Royal Mail copyright and database right 2020
+Source: Office for National Statistics licensed under the Open Government Licence v.3.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+These boundaries are known to be approximate - they are provided in case
+they are of interest and use, but are only rough representations of the
+postcode boundaries due to limitations of the open address data currently
+available. In other words, there are no guarantees about the quality of
+this data or its suitability for any use; use it at your own risk.
