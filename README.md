@@ -1,4 +1,4 @@
-# uk_postcode_sectors
+# uk postcode sectors
 
 UK postcode sector boundaries dataset for mapping and analysis.
 
